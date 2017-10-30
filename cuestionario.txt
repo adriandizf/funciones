@@ -1,0 +1,28 @@
+1. ¿Qué lenguaje es directamente ejecutable por la computadora? 
+    
+    b. Máquina.   
+
+2. Tener deficiencias en la fase de _______ es la principal causa del gran porcentaje de fracasos de los proyectos software. 
+    a. Diseño 
+
+
+3. El modelo en cascada con realimentación es 
+
+    d. Es un tipo de modelo evolutivo
+
+4. El modelo en espiral 
+    a. Se trata de varios ciclos en cascada que se repiten y se refinan en cada incremento. 
+
+
+5. Que plugins tienes instalados en Visual Studio Code y cual es su función
+  
+    Java script
+    Node 
+    Icos
+
+    
+6. Describe los pasos para realizar la depuración de un programa.
+
+    Primero entramos en la pantalla de depuracion y abrimos el codigo que vamos a depurar ponemos tomas de control desde el sitio que nos interese estudiar normalmente al principio de los bucles, ponemos el nombre de las variables de las cuales queremos observar sus cambios ciclo a ciclo, de esta forma podemos controlar el codigo ciclo a ciclo y ver donde estan los fallos.
+
+7. Hacer una captura de pantalla, con la ejecución de la función piramide(10), cuando el valor de i sea igual a 5. Mostrar tambien el contenido de la variable línea (para i=5) justo antes de hacer el console.log(linea)
