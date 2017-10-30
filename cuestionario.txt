@@ -16,9 +16,9 @@
 
 5. Que plugins tienes instalados en Visual Studio Code y cual es su función
   
-    Java script
-    Node 
-    Icos
+    Java script Aplicacion para desarrolar codigo en java
+    Node Exec Sublenguaje de java que aporta recursos utiles para trabajar con ello.
+    File Icons repositorio de iconos para el uso.
 
     
 6. Describe los pasos para realizar la depuración de un programa.
